@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+00_收件箱/_state/
+10_原始内容/*.md
+30_已整理/Twitter/*.md
+40_已归档/
+config.json
+*.cookie
+*.env
